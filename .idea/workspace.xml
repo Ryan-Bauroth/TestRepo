@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a502767f-0b14-453f-99c4-cf4e0dd959d3" name="Changes" comment="HolyGrail is working now :)" />
+    <list default="true" id="a502767f-0b14-453f-99c4-cf4e0dd959d3" name="Changes" comment="HolyGrail is working now :)">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -103,7 +105,7 @@
       <workItem from="1661950688336" duration="8457000" />
       <workItem from="1662734555460" duration="8971000" />
       <workItem from="1663252986709" duration="4772000" />
-      <workItem from="1663771053485" duration="4820000" />
+      <workItem from="1663771053485" duration="5144000" />
     </task>
     <task id="LOCAL-00001" summary="HolyGrail is working now :)">
       <created>1663937714651</created>
@@ -126,7 +128,14 @@
       <option name="project" value="LOCAL" />
       <updated>1663938485846</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="HolyGrail is working now :)">
+      <created>1663939023204</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1663939023204</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
