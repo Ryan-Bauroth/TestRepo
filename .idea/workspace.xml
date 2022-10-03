@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a502767f-0b14-453f-99c4-cf4e0dd959d3" name="Changes" comment="HolyGrail is working now :)">
+      <change afterPath="$PROJECT_DIR$/src/SimpleIOMath.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/GitHubRepo/HolyGrail.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/GitHubRepo/HolyGrail.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30,17 +32,10 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/Users/25bauroth/Downloads/APCS22_23/GitHubRepo&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.keymap&quot;
-  }
-}</component>
-  <component name="RunManager" selected="Application.HolyGrail">
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="RunManager" selected="Application.SimpleIOMath">
     <configuration name="FavThing" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="FavThing" />
       <module name="GitHubRepo" />
@@ -48,15 +43,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="HelloWorld" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="HelloWorld" />
+    <configuration name="HolyGrail" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="HolyGrail" />
       <module name="GitHubRepo" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="HolyGrail" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="HolyGrail" />
+    <configuration name="SimpleIOMath" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SimpleIOMath" />
       <module name="GitHubRepo" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -81,16 +76,16 @@
       <item itemvalue="Application.HolyGrail" />
       <item itemvalue="Application.favMovie" />
       <item itemvalue="Application.FavThing" />
-      <item itemvalue="Application.HelloWorld" />
       <item itemvalue="Application.Widget" />
+      <item itemvalue="Application.SimpleIOMath" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.SimpleIOMath" />
         <item itemvalue="Application.HolyGrail" />
         <item itemvalue="Application.Widget" />
         <item itemvalue="Application.FavThing" />
         <item itemvalue="Application.favMovie" />
-        <item itemvalue="Application.HelloWorld" />
       </list>
     </recent_temporary>
   </component>
@@ -106,6 +101,10 @@
       <workItem from="1662734555460" duration="8971000" />
       <workItem from="1663252986709" duration="4772000" />
       <workItem from="1663771053485" duration="5144000" />
+      <workItem from="1663939178234" duration="292000" />
+      <workItem from="1664291239476" duration="3060000" />
+      <workItem from="1664373581447" duration="598000" />
+      <workItem from="1664461880202" duration="5040000" />
     </task>
     <task id="LOCAL-00001" summary="HolyGrail is working now :)">
       <created>1663937714651</created>
@@ -135,7 +134,14 @@
       <option name="project" value="LOCAL" />
       <updated>1663939023204</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="HolyGrail is working now :)">
+      <created>1663939244218</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1663939244219</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
