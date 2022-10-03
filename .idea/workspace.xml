@@ -1,10 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a502767f-0b14-453f-99c4-cf4e0dd959d3" name="Changes" comment="HolyGrail is working now :)">
-      <change afterPath="$PROJECT_DIR$/src/SimpleIOMath.java" afterDir="false" />
+    <list default="true" id="a502767f-0b14-453f-99c4-cf4e0dd959d3" name="Changes" comment="SimpleIOMath is not working">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/GitHubRepo/HolyGrail.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/GitHubRepo/HolyGrail.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SimpleIOMath.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SimpleIOMath.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -105,6 +104,7 @@
       <workItem from="1664291239476" duration="3060000" />
       <workItem from="1664373581447" duration="598000" />
       <workItem from="1664461880202" duration="5040000" />
+      <workItem from="1664799334253" duration="2720000" />
     </task>
     <task id="LOCAL-00001" summary="HolyGrail is working now :)">
       <created>1663937714651</created>
@@ -141,7 +141,14 @@
       <option name="project" value="LOCAL" />
       <updated>1663939244219</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="SimpleIOMath is not working">
+      <created>1664799587944</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1664799587944</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -161,6 +168,7 @@
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="HolyGrail is working now :)" />
-    <option name="LAST_COMMIT_MESSAGE" value="HolyGrail is working now :)" />
+    <MESSAGE value="SimpleIOMath is not working" />
+    <option name="LAST_COMMIT_MESSAGE" value="SimpleIOMath is not working" />
   </component>
 </project>

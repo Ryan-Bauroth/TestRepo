@@ -3,6 +3,7 @@ import java.util.Scanner;
  * Simple I/O Math and Returns
  * @version 09.27.2022
  * @author Ryfi
+ * @extra favNumber on a chess board (Finds if your favorite number is a white square or a black square on a chess board *starting at the top and going left to right*)
  */
 
 public class SimpleIOMath {
@@ -40,6 +41,7 @@ public class SimpleIOMath {
                 "\nThe first prime factor of " + age + " is: " + firstPrime(age) +
                 "\nYour favorite number is: " + favNumber +
                 "\nYour favorite number squared is: " + (favNumber * favNumber) +
+                "\n If you plot your favorite number on chess board, it ends up on a: " + getBoard() +
                 "\n* end of program *");
     }
     private boolean isPrime(int num){
@@ -59,6 +61,29 @@ public class SimpleIOMath {
             }
         }
         return num;
+    }
+    private String getBoard(){
+        if(favNumber < 9 || favNumber > 16 && favNumber < 25 || favNumber > 32 && favNumber < 41 || favNumber > 48 && favNumber < 57){
+            if(favNumber % 2 == 0){
+                return "Black Square";
+            }
+            else{
+                return "White Square";
+            }
+        }
+        else{
+            if(favNumber < 65){
+                if(favNumber % 2 == 0){
+                    return "White Square";
+                }
+                else{
+                    return "Black Square";
+                }
+            }
+            else{
+                return "That's Not On The Board Silly";
+            }
+        }
     }
     /**
      * Main method for class SimpleIOMath
